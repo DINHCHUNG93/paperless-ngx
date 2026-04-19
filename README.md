@@ -1,3 +1,20 @@
+Nhiều người vẫn đang lưu trữ hóa đơn, giấy tờ thuế và hợp đồng một cách rời rạc, khó tìm kiếm khi cần.
+
+Một công cụ mã nguồn mở mang tên Paperless-ngx đang giải quyết vấn đề này bằng cách số hóa và quản lý toàn bộ tài liệu.
+
+Hệ thống có thể quét, nhận diện nội dung bằng OCR và tự động phân loại tài liệu như hóa đơn, hợp đồng hay hồ sơ y tế.
+
+Mọi dữ liệu được gắn tag, xác định nguồn gửi và lưu trữ dưới định dạng bền vững, cho phép tìm kiếm toàn văn chỉ trong vài giây.
+
+Công cụ còn hỗ trợ kết nối email, tạo workflow tự động và quản lý nhiều người dùng với quyền truy cập riêng.
+
+Paperless-ngx có thể chạy trên server cá nhân hoặc thiết bị nhỏ như Raspberry Pi, không phụ thuộc cloud bên thứ ba.
+
+So với các giải pháp thương mại có chi phí hàng nghìn USD mỗi năm, hệ thống này gần như miễn phí khi tự triển khai.
+
+Đây được xem là một lựa chọn mạnh mẽ cho quản lý tài liệu, đảm bảo quyền kiểm soát dữ liệu và chi phí tối ưu.
+
+
 [![ci](https://github.com/paperless-ngx/paperless-ngx/workflows/ci/badge.svg)](https://github.com/paperless-ngx/paperless-ngx/actions)
 [![Crowdin](https://badges.crowdin.net/paperless-ngx/localized.svg)](https://crowdin.com/project/paperless-ngx)
 [![Documentation Status](https://img.shields.io/github/deployments/paperless-ngx/paperless-ngx/github-pages?label=docs)](https://docs.paperless-ngx.com)
